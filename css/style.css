@@ -6,7 +6,7 @@
 body{
     background-color: #0E1014;
     color: #FFFFFF;;
-    /* Para caso o texto do seu site tdood seja de apenas uma cor adiocanr neste campo */
+    
 }
 header img{
     display: block;
@@ -47,12 +47,6 @@ a{
     line-height: 66px;
     border-radius: 36px;
     margin: 40px auto;
-    /*
-    margin-top: 100px;
-    margin-right: 790px;
-    margin-bottom: 10 px;
-    margin-left: 790px;
-    */
 }
 
 a:hover{
@@ -104,13 +98,3 @@ section img{
         height: 230px;
     }
 }
-
-/*h1, p, a{
-    color:#FFFFFF;
-}*/
-
-/* .cor-branca{
-    color: #FFFFFF;
-
-    Está é a criação de uma classe para a cor branca, e para utilizar ela no codigo basta ir no elemneto que desja mudar e colocar class="cor-branca"
-}*/
